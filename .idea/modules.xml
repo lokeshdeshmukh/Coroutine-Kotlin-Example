@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Kotlin-Coroutines-Simple-Example.iml" filepath="$PROJECT_DIR$/.idea/modules/Kotlin-Coroutines-Simple-Example.iml" group="Kotlin-Coroutines-Simple-Example" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/app.iml" group="Kotlin-Coroutines-Simple-Example/app" />
+    </modules>
+  </component>
+</project>
